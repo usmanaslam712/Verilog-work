@@ -1,0 +1,1 @@
+xst -intstyle ise -ifn "C:/Users/click/Desktop/Xilinx work/ripplecarryadder/carryadder.xst" -ofn "C:/Users/click/Desktop/Xilinx work/ripplecarryadder/carryadder.syr" 
